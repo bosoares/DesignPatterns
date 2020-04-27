@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "strategyPattern",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "createDuck::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-createDuck-da10d26efbc1a5f33a01.json",
+					"name" : "createDuck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strategyLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strategyLib-c05a16a83d922de3ff09.json",
+					"name" : "strategyLib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/build",
+		"source" : "/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

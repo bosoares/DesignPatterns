@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstrategyLib.a  CMakeFiles/strategyLib.dir/src/BlasterBehavior.cpp.o CMakeFiles/strategyLib.dir/src/CrossBowBehavior.cpp.o CMakeFiles/strategyLib.dir/src/LightSaberBehavior.cpp.o CMakeFiles/strategyLib.dir/src/StarWarsCharacter.cpp.o
+/usr/bin/ranlib libstrategyLib.a
