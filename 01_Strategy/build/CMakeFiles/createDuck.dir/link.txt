@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/createDuck.dir/duckMain.cpp.o  -o createDuck  libstrategyLib.a 

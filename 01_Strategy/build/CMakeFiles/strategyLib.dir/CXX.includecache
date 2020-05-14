@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/duck.cpp
+duck.h
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/duck.h
+
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/duck.h
+iostream
+-
+string
+-
+iquackbehaviour.h
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/iquackbehaviour.h
+
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/iquackbehaviour.h
+

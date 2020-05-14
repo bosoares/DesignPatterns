@@ -1,0 +1,4 @@
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/build/CMakeFiles/edit_cache.dir
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/build/CMakeFiles/rebuild_cache.dir
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/build/CMakeFiles/StarWars.dir
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/build/CMakeFiles/strategyLib.dir

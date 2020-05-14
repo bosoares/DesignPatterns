@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstrategyLib.a  CMakeFiles/strategyLib.dir/simplequack.cpp.o CMakeFiles/strategyLib.dir/duck.cpp.o
+/usr/bin/ranlib libstrategyLib.a

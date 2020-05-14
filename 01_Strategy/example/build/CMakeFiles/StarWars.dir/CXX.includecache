@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/BlasterBehavior.h
+WeaponBehavior.h
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/WeaponBehavior.h
+
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/CrossBowBehavior.h
+WeaponBehavior.h
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/WeaponBehavior.h
+
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/LightSaberBehavior.h
+WeaponBehavior.h
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/WeaponBehavior.h
+
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/StarWarsCharacter.h
+string
+-
+
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/StarWarsCharacterMain.cpp
+string
+-
+BlasterBehavior.h
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/BlasterBehavior.h
+CrossBowBehavior.h
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/CrossBowBehavior.h
+LightSaberBehavior.h
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/LightSaberBehavior.h
+StarWarsCharacter.h
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/StarWarsCharacter.h
+
+/home/bossoares/Documents/Dev/oop/designPatterns/01_Strategy/example/src/WeaponBehavior.h
+
