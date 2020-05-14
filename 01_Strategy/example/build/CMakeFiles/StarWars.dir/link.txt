@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/StarWars.dir/src/StarWarsCharacterMain.cpp.o  -o StarWars  libstrategyLib.a 
